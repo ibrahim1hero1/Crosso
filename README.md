@@ -15,4 +15,4 @@ Crosso about screen
 
 <br/><br/>
 
-<a href="https://www.dropbox.com/s/wn4s44vrzy8ekf1/Crosso.apk?dl=0"><img src="https://raw.githubusercontent.com/ibrahim1hero1/Crosso/master/readme/Images/download.png" width="125px" height="25px"</img></a>
+<a href="https://www.dropbox.com/s/wn4s44vrzy8ekf1/Crosso.apk?dl=0"><img src="https://raw.githubusercontent.com/ibrahim1hero1/Crosso/master/readme/Images/download.png" width="555px" height="100px"</img></a>
