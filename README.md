@@ -15,5 +15,4 @@ Crosso about screen
 
 <br/><br/>
 
-<h1>Dwonload Android APK</h1>
-       
+<a href="https://www.dropbox.com/s/wn4s44vrzy8ekf1/Crosso.apk?dl=0"><h1>Download  Android APK </h1></a>      
