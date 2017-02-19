@@ -1,5 +1,5 @@
 # Crosso
-This is a scientific calculator mobile app to help users in calculate complicated operations, and offsure based on Calccedo Engine Library
+This is a scientific calculator mobile app designed to help users in calculate complicated operations, and offsure based on Calccedo Engine Library
 
 
 
