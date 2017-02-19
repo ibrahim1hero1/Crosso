@@ -15,16 +15,5 @@ Crosso about screen
 
 
 
- 
-```html
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Dwonload Android APK</h2>
-            <div class="wrap">
-            
-            </div>
-        </div>
-    </div>
-</pre>
-```
+<h2>Dwonload Android APK</h2>
+       
