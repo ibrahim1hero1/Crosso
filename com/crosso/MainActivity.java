@@ -101,7 +101,7 @@ public class MainActivity extends Activity {
     	   Helper.reset(escapeDelete_btn,formulaEditText,formulaEditText.getText().toString());
     	   carretPosition=formulaEditText.getSelectionStart();
            formulaEditText.setText(Helper.applyOperand(formulaEditText.getText().toString(), buttonRecievedText, carretPosition));
-       	   formulaEditText.setSelection(carretPosition+4);
+       	   formulaEditText.setSelection(carretPosition+buttonRecievedText.length());
     }
 
 
