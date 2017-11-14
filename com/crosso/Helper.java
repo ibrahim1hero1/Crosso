@@ -18,7 +18,7 @@ import android.widget.EditText;
  */
 
 
-public class Utility {
+public class Helper {
 
 	
 	
